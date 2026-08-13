@@ -1,0 +1,376 @@
+{
+  "items": [
+    {
+      "description": "OpenID Connect Providers as SaaS and Open Source solutions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Authentik",
+          "description": "Open Source Identity Provider focused on flexibility and versatility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:10:46Z",
+            "owner": "goauthentik",
+            "repo": "authentik",
+            "stars": 24722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Hydra",
+          "description": "Open Source OpenID Certified™ OpenID Connect and OAuth Provider.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T09:30:11Z",
+            "owner": "ory",
+            "repo": "hydra",
+            "stars": 17474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zitadel",
+          "description": "Open Source Identity solution with OpenID Connect provider (OP) and SAMLv2 ready to use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T18:12:22Z",
+            "owner": "zitadel",
+            "repo": "zitadel",
+            "stars": 14715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logto",
+          "description": "An Open-source solution designed for Customer Identity and Access Management (CIAM) and Workforce Identity Management with OpenID Connect based authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:08:17Z",
+            "owner": "logto-io",
+            "repo": "logto",
+            "stars": 14338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dex",
+          "description": "Provider that acts as a portal to other identity providers through \"connectors.\" like LDAP, SAML, OIDC or established identity providers like GitHub, Google, and Active Directory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T04:03:20Z",
+            "owner": "dexidp",
+            "repo": "dex",
+            "stars": 11034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pocket ID",
+          "description": "A simple OpenID Connect Provider that allows users to authenticate with their passkeys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:25:42Z",
+            "owner": "pocket-id",
+            "repo": "pocket-id",
+            "stars": 8807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenIddict",
+          "description": ".NET Open Source OpenID Connect Provider implementation with ASP.NET Core 2.1 (and higher) applications support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T19:53:44Z",
+            "owner": "openiddict",
+            "repo": "openiddict-core",
+            "stars": 5221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "panva/node-oidc-provider",
+          "description": "Open Source and certified OpenID Connect provider implementation in Node.js with FAPI 1.0 and FAPI 2.0 support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T17:30:05Z",
+            "owner": "panva",
+            "repo": "node-oidc-provider",
+            "stars": 3792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Polis (formerly BoxyHQ Jackson)",
+          "description": "Open Source Enterprise SSO bridges or proxies a SAML login flow to OpenID Connect with also user directory sync capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T21:17:28Z",
+            "owner": "ory",
+            "repo": "polis",
+            "stars": 2257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MITREid Connect",
+          "description": "Open Source OpenID Connect reference implementation in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-05T02:47:31Z",
+            "owner": "mitreid-connect",
+            "repo": "OpenID-Connect-Java-Spring-Server",
+            "stars": 1508
+          }
+        }
+      ],
+      "title": "OpenID Providers (OP)"
+    },
+    {
+      "description": "Relying Parties (RP) Libraries for implementing OpenID Connect on a client application.",
+      "items": [],
+      "title": "Relying Parties (RP) Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mod_auth_openidc",
+          "description": "OpenID Connect Relying Party certified implementation for Apache Server 2.x.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T21:41:38Z",
+            "owner": "OpenIDC",
+            "repo": "mod_auth_openidc",
+            "stars": 1092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "liboauth2",
+          "description": "Generic library to build C-based OpenID Connect Provider and Relying Party.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T09:53:39Z",
+            "owner": "OpenIDC",
+            "repo": "liboauth2",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ngx_oauth2_module",
+          "description": "OpenID Connect Relying Party certified implementation for Nginx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "M4",
+            "last_commit": "2026-05-23T09:49:55Z",
+            "owner": "OpenIDC",
+            "repo": "ngx_oauth2_module",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "C"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "coreos/go-oidc",
+          "description": "Go OpenID Connect client developed by CoreOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-08T18:25:54Z",
+            "owner": "coreos",
+            "repo": "go-oidc",
+            "stars": 2459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zitadel/oidc",
+          "description": "OpenID Connect client and server library certified by the OpenID Foundation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T19:44:11Z",
+            "owner": "zitadel",
+            "repo": "oidc",
+            "stars": 1864
+          }
+        }
+      ],
+      "title": "Golang"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "openid-client",
+          "description": "OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T18:16:58Z",
+            "owner": "panva",
+            "repo": "openid-client",
+            "stars": 2390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oidc-client-ts",
+          "description": "TypeScript OpenID Client and OAuth 2.0 client for browser-based applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-24T14:31:33Z",
+            "owner": "authts",
+            "repo": "oidc-client-ts",
+            "stars": 1942
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oauth4webapi",
+          "description": "OAuth 2/OpenID Connect library for JavaScript Runtimes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T18:10:51Z",
+            "owner": "panva",
+            "repo": "oauth4webapi",
+            "stars": 768
+          }
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Laravel Socialite",
+          "description": "Laravel wrapper around OAuth 1 & OAuth 2 libraries with OpenID Connect support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-24T03:24:21Z",
+            "owner": "laravel",
+            "repo": "socialite",
+            "stars": 5747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thephpleague/oauth2-client",
+          "description": "Integration with OAuth 2.0 service providers for PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T02:52:27Z",
+            "owner": "thephpleague",
+            "repo": "oauth2-client",
+            "stars": 3817
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "openid_connect",
+          "description": "Ruby OpenID Connect Relying party (RP) and Provider (OP) library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-17T02:57:46Z",
+            "owner": "nov",
+            "repo": "openid_connect",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omniauth_openid_connect",
+          "description": "OpenID Connect Strategy for Ruby OmniAuth library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-03-16T18:15:55Z",
+            "owner": "omniauth",
+            "repo": "omniauth_openid_connect",
+            "stars": 199
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "Where to discover learning resources about OpenID Connect.",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Specifications"
+    },
+    {
+      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:10:56.056Z",
+    "original_repository": "cerberauth/awesome-openid-connect",
+    "original_repository_sha": "d6a2651933797d535fdeb70d85e6c786e8b4195e",
+    "enhanced_repository": "enhansome/enhansome-openid-connect",
+    "enhanced_repository_description": null,
+    "title": "Awesome OpenID Connect with stars"
+  }
+}
