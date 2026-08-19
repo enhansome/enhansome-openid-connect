@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230885748,
             "language": "Python",
-            "last_commit": "2026-08-18T14:04:23Z",
+            "last_commit": "2026-08-19T12:16:49Z",
             "owner": "goauthentik",
             "repo": "authentik",
-            "stars": 24926
+            "stars": 24972
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36071697,
             "language": "Go",
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17483
+            "stars": 17484
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247714750,
             "language": "Go",
-            "last_commit": "2026-08-18T11:21:24Z",
+            "last_commit": "2026-08-19T12:30:00Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 14770
+            "stars": 14786
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 378310716,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T12:52:03Z",
+            "last_commit": "2026-08-19T07:25:44Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 14375
+            "stars": 14382
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40916314,
             "language": "Go",
             "last_commit": "2026-08-17T04:04:46Z",
             "owner": "dexidp",
             "repo": "dex",
-            "stars": 11047
+            "stars": 11050
           }
         },
         {
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 841141075,
             "language": "Go",
-            "last_commit": "2026-08-18T05:02:03Z",
+            "last_commit": "2026-08-19T06:30:29Z",
             "owner": "pocket-id",
             "repo": "pocket-id",
-            "stars": 8901
+            "stars": 8924
           }
         },
         {
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41173335,
             "language": "C#",
             "last_commit": "2026-08-14T17:38:26Z",
             "owner": "openiddict",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47250070,
             "language": "JavaScript",
             "last_commit": "2026-08-11T17:30:05Z",
             "owner": "panva",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 395891383,
             "language": "TypeScript",
             "last_commit": "2026-07-27T21:17:28Z",
             "owner": "ory",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2681994,
             "language": "Java",
             "last_commit": "2024-06-05T02:47:31Z",
             "owner": "mitreid-connect",
@@ -148,226 +158,305 @@
     },
     {
       "description": "Relying Parties (RP) Libraries for implementing OpenID Connect on a client application.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mod_auth_openidc",
+              "description": "OpenID Connect Relying Party certified implementation for Apache Server 2.x.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18187508,
+                "language": "C",
+                "last_commit": "2026-08-19T08:54:46Z",
+                "owner": "OpenIDC",
+                "repo": "mod_auth_openidc",
+                "stars": 1092
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "liboauth2",
+              "description": "Generic library to build C-based OpenID Connect Provider and Relying Party.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177150688,
+                "language": "C",
+                "last_commit": "2026-08-12T09:53:39Z",
+                "owner": "OpenIDC",
+                "repo": "liboauth2",
+                "stars": 136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ngx_oauth2_module",
+              "description": "OpenID Connect Relying Party certified implementation for Nginx.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177124892,
+                "language": "M4",
+                "last_commit": "2026-05-23T09:49:55Z",
+                "owner": "OpenIDC",
+                "repo": "ngx_oauth2_module",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "coreos/go-oidc",
+              "description": "Go OpenID Connect client developed by CoreOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38275789,
+                "language": "Go",
+                "last_commit": "2026-07-08T18:25:54Z",
+                "owner": "coreos",
+                "repo": "go-oidc",
+                "stars": 2466
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zitadel/oidc",
+              "description": "OpenID Connect client and server library certified by the OpenID Foundation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221917370,
+                "language": "Go",
+                "last_commit": "2026-08-18T04:04:57Z",
+                "owner": "zitadel",
+                "repo": "oidc",
+                "stars": 1868
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Golang"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "openid-client",
+              "description": "OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62037644,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T12:24:22Z",
+                "owner": "panva",
+                "repo": "openid-client",
+                "stars": 2393
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oidc-client-ts",
+              "description": "TypeScript OpenID Client and OAuth 2.0 client for browser-based applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 385263968,
+                "language": "TypeScript",
+                "last_commit": "2026-06-24T14:31:33Z",
+                "owner": "authts",
+                "repo": "oidc-client-ts",
+                "stars": 1943
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oauth4webapi",
+              "description": "OAuth 2/OpenID Connect library for JavaScript Runtimes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 465246985,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T18:10:51Z",
+                "owner": "panva",
+                "repo": "oauth4webapi",
+                "stars": 771
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Better Auth",
+              "description": "TypeScript Framework agnostic authentication library for SPAs and server-side applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 803014189,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T10:03:46Z",
+                "owner": "better-auth",
+                "repo": "better-auth",
+                "stars": 29590
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "angular-oauth2-oidc",
+              "description": "Library which bring support for OAuth 2.0 and OpenID Connect (OIDC) in Angular.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77933597,
+                "language": "TypeScript",
+                "last_commit": "2026-07-05T09:19:08Z",
+                "owner": "manfredsteyer",
+                "repo": "angular-oauth2-oidc",
+                "stars": 1981
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nuxt-auth for Nuxt 2",
+              "description": "Zero-boilerplate authentication support for Nuxt.js 2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102371998,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T21:53:15Z",
+                "owner": "nuxt-community",
+                "repo": "auth-module",
+                "stars": 1924
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nuxt-auth for Nuxt3",
+              "description": "Nuxt 3 user authentication and sessions library. nuxt-auth wraps NextAuth.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 556315910,
+                "language": "TypeScript",
+                "last_commit": "2026-08-06T12:24:34Z",
+                "owner": "sidebase",
+                "repo": "nuxt-auth",
+                "stars": 1548
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "angular-auth-oidc-client",
+              "description": "Angular certified library with OAuth 2.0 and OpenID Connect flows, and Angular schematics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94194486,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T09:03:54Z",
+                "owner": "damienbod",
+                "repo": "angular-auth-oidc-client",
+                "stars": 1238
+              }
+            }
+          ],
+          "description": "Libraries layer focused on specific framework integration",
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Laravel Socialite",
+              "description": "Laravel wrapper around OAuth 1 & OAuth 2 libraries with OpenID Connect support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23056580,
+                "language": "PHP",
+                "last_commit": "2026-08-18T13:44:35Z",
+                "owner": "laravel",
+                "repo": "socialite",
+                "stars": 5747
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "thephpleague/oauth2-client",
+              "description": "Integration with OAuth 2.0 service providers for PHP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7895524,
+                "language": "PHP",
+                "last_commit": "2026-08-10T02:52:27Z",
+                "owner": "thephpleague",
+                "repo": "oauth2-client",
+                "stars": 3817
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "openid_connect",
+              "description": "Ruby OpenID Connect Relying party (RP) and Provider (OP) library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2189774,
+                "language": "Ruby",
+                "last_commit": "2026-06-17T02:57:46Z",
+                "owner": "nov",
+                "repo": "openid_connect",
+                "stars": 429
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "omniauth_openid_connect",
+              "description": "OpenID Connect Strategy for Ruby OmniAuth library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74266456,
+                "language": "Ruby",
+                "last_commit": "2026-03-16T18:15:55Z",
+                "owner": "omniauth",
+                "repo": "omniauth_openid_connect",
+                "stars": 199
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        }
+      ],
       "title": "Relying Parties (RP) Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mod_auth_openidc",
-          "description": "OpenID Connect Relying Party certified implementation for Apache Server 2.x.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-16T14:13:33Z",
-            "owner": "OpenIDC",
-            "repo": "mod_auth_openidc",
-            "stars": 1092
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "liboauth2",
-          "description": "Generic library to build C-based OpenID Connect Provider and Relying Party.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-12T09:53:39Z",
-            "owner": "OpenIDC",
-            "repo": "liboauth2",
-            "stars": 136
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ngx_oauth2_module",
-          "description": "OpenID Connect Relying Party certified implementation for Nginx.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "M4",
-            "last_commit": "2026-05-23T09:49:55Z",
-            "owner": "OpenIDC",
-            "repo": "ngx_oauth2_module",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "C"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "coreos/go-oidc",
-          "description": "Go OpenID Connect client developed by CoreOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-08T18:25:54Z",
-            "owner": "coreos",
-            "repo": "go-oidc",
-            "stars": 2464
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zitadel/oidc",
-          "description": "OpenID Connect client and server library certified by the OpenID Foundation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T04:04:57Z",
-            "owner": "zitadel",
-            "repo": "oidc",
-            "stars": 1867
-          }
-        }
-      ],
-      "title": "Golang"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "openid-client",
-          "description": "OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T12:24:22Z",
-            "owner": "panva",
-            "repo": "openid-client",
-            "stars": 2393
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "oidc-client-ts",
-          "description": "TypeScript OpenID Client and OAuth 2.0 client for browser-based applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-24T14:31:33Z",
-            "owner": "authts",
-            "repo": "oidc-client-ts",
-            "stars": 1943
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "oauth4webapi",
-          "description": "OAuth 2/OpenID Connect library for JavaScript Runtimes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T18:10:51Z",
-            "owner": "panva",
-            "repo": "oauth4webapi",
-            "stars": 770
-          }
-        }
-      ],
-      "title": "JavaScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Laravel Socialite",
-          "description": "Laravel wrapper around OAuth 1 & OAuth 2 libraries with OpenID Connect support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T13:44:35Z",
-            "owner": "laravel",
-            "repo": "socialite",
-            "stars": 5746
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "thephpleague/oauth2-client",
-          "description": "Integration with OAuth 2.0 service providers for PHP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-10T02:52:27Z",
-            "owner": "thephpleague",
-            "repo": "oauth2-client",
-            "stars": 3817
-          }
-        }
-      ],
-      "title": "PHP"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "openid_connect",
-          "description": "Ruby OpenID Connect Relying party (RP) and Provider (OP) library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-06-17T02:57:46Z",
-            "owner": "nov",
-            "repo": "openid_connect",
-            "stars": 429
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omniauth_openid_connect",
-          "description": "OpenID Connect Strategy for Ruby OmniAuth library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-03-16T18:15:55Z",
-            "owner": "omniauth",
-            "repo": "omniauth_openid_connect",
-            "stars": 199
-          }
-        }
-      ],
-      "title": "Ruby"
-    },
-    {
-      "description": "Where to discover learning resources about OpenID Connect.",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Specifications"
-    },
-    {
-      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:06:07.351Z",
+    "last_updated": "2026-08-19T12:43:54.151Z",
     "original_repository": "cerberauth/awesome-openid-connect",
+    "original_repository_id": 621026799,
     "original_repository_sha": "d6a2651933797d535fdeb70d85e6c786e8b4195e",
     "enhanced_repository": "enhansome/enhansome-openid-connect",
     "enhanced_repository_description": null,
