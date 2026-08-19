@@ -12,10 +12,10 @@
             "archived": false,
             "id": 230885748,
             "language": "Python",
-            "last_commit": "2026-08-19T12:16:49Z",
+            "last_commit": "2026-08-19T14:06:06Z",
             "owner": "goauthentik",
             "repo": "authentik",
-            "stars": 24972
+            "stars": 24975
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 247714750,
             "language": "Go",
-            "last_commit": "2026-08-19T12:30:00Z",
+            "last_commit": "2026-08-19T12:54:55Z",
             "owner": "zitadel",
             "repo": "zitadel",
             "stars": 14786
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-19T07:25:44Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 14382
+            "stars": 14383
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-19T06:30:29Z",
             "owner": "pocket-id",
             "repo": "pocket-id",
-            "stars": 8924
+            "stars": 8927
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-07-27T21:17:28Z",
             "owner": "ory",
             "repo": "polis",
-            "stars": 2259
+            "stars": 2260
           }
         },
         {
@@ -307,7 +307,7 @@
                 "last_commit": "2026-08-19T10:03:46Z",
                 "owner": "better-auth",
                 "repo": "better-auth",
-                "stars": 29590
+                "stars": 29592
               }
             },
             {
@@ -454,7 +454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:43:54.151Z",
+    "last_updated": "2026-08-19T14:06:31.322Z",
     "original_repository": "cerberauth/awesome-openid-connect",
     "original_repository_id": 621026799,
     "original_repository_sha": "d6a2651933797d535fdeb70d85e6c786e8b4195e",
