@@ -12,10 +12,10 @@
             "archived": false,
             "id": 230885748,
             "language": "Python",
-            "last_commit": "2026-08-19T14:06:06Z",
+            "last_commit": "2026-08-20T14:04:04Z",
             "owner": "goauthentik",
             "repo": "authentik",
-            "stars": 24975
+            "stars": 25016
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 247714750,
             "language": "Go",
-            "last_commit": "2026-08-19T12:54:55Z",
+            "last_commit": "2026-08-20T11:59:45Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 14786
+            "stars": 14795
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 378310716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T07:25:44Z",
+            "last_commit": "2026-08-20T12:15:50Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 14383
+            "stars": 14396
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 40916314,
             "language": "Go",
-            "last_commit": "2026-08-17T04:04:46Z",
+            "last_commit": "2026-08-20T04:03:26Z",
             "owner": "dexidp",
             "repo": "dex",
-            "stars": 11050
+            "stars": 11053
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-19T06:30:29Z",
             "owner": "pocket-id",
             "repo": "pocket-id",
-            "stars": 8927
+            "stars": 8939
           }
         },
         {
@@ -225,7 +225,7 @@
                 "last_commit": "2026-07-08T18:25:54Z",
                 "owner": "coreos",
                 "repo": "go-oidc",
-                "stars": 2466
+                "stars": 2468
               }
             },
             {
@@ -259,10 +259,10 @@
                 "archived": false,
                 "id": 62037644,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T12:24:22Z",
+                "last_commit": "2026-08-20T11:18:50Z",
                 "owner": "panva",
                 "repo": "openid-client",
-                "stars": 2393
+                "stars": 2392
               }
             },
             {
@@ -277,7 +277,7 @@
                 "last_commit": "2026-06-24T14:31:33Z",
                 "owner": "authts",
                 "repo": "oidc-client-ts",
-                "stars": 1943
+                "stars": 1944
               }
             },
             {
@@ -304,10 +304,10 @@
                 "archived": false,
                 "id": 803014189,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T10:03:46Z",
+                "last_commit": "2026-08-20T14:05:26Z",
                 "owner": "better-auth",
                 "repo": "better-auth",
-                "stars": 29592
+                "stars": 29603
               }
             },
             {
@@ -334,7 +334,7 @@
                 "archived": false,
                 "id": 102371998,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T21:53:15Z",
+                "last_commit": "2026-08-20T02:57:58Z",
                 "owner": "nuxt-community",
                 "repo": "auth-module",
                 "stars": 1924
@@ -349,7 +349,7 @@
                 "archived": false,
                 "id": 556315910,
                 "language": "TypeScript",
-                "last_commit": "2026-08-06T12:24:34Z",
+                "last_commit": "2026-08-19T15:51:10Z",
                 "owner": "sidebase",
                 "repo": "nuxt-auth",
                 "stars": 1548
@@ -454,7 +454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:06:31.322Z",
+    "last_updated": "2026-08-20T14:08:27.851Z",
     "original_repository": "cerberauth/awesome-openid-connect",
     "original_repository_id": 621026799,
     "original_repository_sha": "d6a2651933797d535fdeb70d85e6c786e8b4195e",
