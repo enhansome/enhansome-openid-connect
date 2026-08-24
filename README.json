@@ -306,7 +306,7 @@
                 "last_commit": "2026-08-24T04:05:38Z",
                 "owner": "zitadel",
                 "repo": "oidc",
-                "stars": 1871
+                "stars": 1872
               }
             }
           ],
@@ -651,7 +651,7 @@
             "last_commit": "2026-06-29T19:40:15Z",
             "owner": "greenpau",
             "repo": "caddy-security",
-            "stars": 2224
+            "stars": 2225
           }
         },
         {
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:36:23.370Z",
+    "last_updated": "2026-08-24T15:07:29.142Z",
     "original_repository": "cerberauth/awesome-openid-connect",
     "original_repository_id": 621026799,
     "original_repository_sha": "fee56dd9fc06448c0eb96e03d3523e12bdf580c1",

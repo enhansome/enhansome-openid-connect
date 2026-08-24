@@ -153,7 +153,7 @@
 ### Golang
 
 * [coreos/go-oidc](https://github.com/coreos/go-oidc) ⭐ 2,471 | 🐛 21 | 🌐 Go | 📅 2026-07-08 - Go OpenID Connect client developed by CoreOS.
-* [zitadel/oidc](https://github.com/zitadel/oidc) ⭐ 1,871 | 🐛 45 | 🌐 Go | 📅 2026-08-24 - OpenID Connect client and server library certified by the OpenID Foundation.
+* [zitadel/oidc](https://github.com/zitadel/oidc) ⭐ 1,872 | 🐛 45 | 🌐 Go | 📅 2026-08-24 - OpenID Connect client and server library certified by the OpenID Foundation.
 * [golang.org/x/oauth2](https://pkg.go.dev/golang.org/x/oauth2) - Official Golang client implementation for OAuth 2.0 spec with OpenID Connect support.
 
 ### Java
@@ -170,7 +170,7 @@
 
 *Libraries layer focused on specific framework integration*
 
-* [Better Auth](https://github.com/better-auth/better-auth) ⭐ 29,659 | 🐛 696 | 🌐 TypeScript | 📅 2026-08-24 - TypeScript Framework agnostic authentication library for SPAs and server-side applications.
+* [Better Auth](https://github.com/better-auth/better-auth) ⭐ 29,659 | 🐛 695 | 🌐 TypeScript | 📅 2026-08-24 - TypeScript Framework agnostic authentication library for SPAs and server-side applications.
 * [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,980 | 🐛 307 | 🌐 TypeScript | 📅 2026-07-05 - Library which bring support for OAuth 2.0 and OpenID Connect (OIDC) in Angular.
 * [nuxt-auth for Nuxt 2](https://github.com/nuxt-community/auth-module) ⭐ 1,924 | 🐛 205 | 🌐 TypeScript | 📅 2026-08-21 - Zero-boilerplate authentication support for Nuxt.js 2.
 * [nuxt-auth for Nuxt3](https://github.com/sidebase/nuxt-auth) ⭐ 1,548 | 🐛 83 | 🌐 TypeScript | 📅 2026-08-19 - Nuxt 3 user authentication and sessions library. nuxt-auth wraps NextAuth.js.
@@ -203,7 +203,7 @@
 
 * [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) ⭐ 14,870 | 🐛 248 | 🌐 Go | 📅 2026-08-24 - Reverse proxy adding OpenID Connect and OAuth 2.0 based authentication in front of any application.
 * [Vouch Proxy](https://github.com/vouch/vouch-proxy) ⭐ 3,281 | 🐛 66 | 🌐 Go | 📅 2026-07-03 - SSO solution using OpenID Connect for Nginx and Traefik reverse proxies.
-* [caddy-security](https://github.com/greenpau/caddy-security) ⭐ 2,224 | 🐛 21 | 🌐 Go | 📅 2026-06-29 - OpenID Connect Relying Party authentication plugin for the Caddy web server.
+* [caddy-security](https://github.com/greenpau/caddy-security) ⭐ 2,225 | 🐛 21 | 🌐 Go | 📅 2026-06-29 - OpenID Connect Relying Party authentication plugin for the Caddy web server.
 * [lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc) ⭐ 1,073 | 🐛 71 | 🌐 Lua | 📅 2026-07-01 - OpenID Connect Relying Party and OAuth 2.0 client Lua library for NGINX/OpenResty.
 * [traefikoidc](https://github.com/lukaszraczylo/traefikoidc) ⭐ 208 | 🐛 4 | 🌐 Go | 📅 2026-08-19 - OpenID Connect Relying Party middleware plugin for Traefik.
 * [MiniOrange OAuth SSO](https://wordpress.org/plugins/miniorange-login-with-eve-online-google-facebook/) - Wordpress OAuth and OpenID Connect plugin developed and actively maintained by MiniOrange.
