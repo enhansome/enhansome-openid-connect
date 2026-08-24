@@ -12,10 +12,10 @@
             "archived": false,
             "id": 230885748,
             "language": "Python",
-            "last_commit": "2026-08-23T13:31:11Z",
+            "last_commit": "2026-08-24T14:33:01Z",
             "owner": "goauthentik",
             "repo": "authentik",
-            "stars": 25100
+            "stars": 25123
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17492
+            "stars": 17496
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 247714750,
             "language": "Go",
-            "last_commit": "2026-08-21T14:17:24Z",
+            "last_commit": "2026-08-24T13:27:37Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 14826
+            "stars": 14842
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 378310716,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T03:11:51Z",
+            "last_commit": "2026-08-24T12:00:24Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 14441
+            "stars": 14455
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 40916314,
             "language": "Go",
-            "last_commit": "2026-08-20T04:03:26Z",
+            "last_commit": "2026-08-24T04:04:36Z",
             "owner": "dexidp",
             "repo": "dex",
-            "stars": 11054
+            "stars": 11056
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-23T02:46:30Z",
             "owner": "pocket-id",
             "repo": "pocket-id",
-            "stars": 8988
+            "stars": 9005
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 41173335,
             "language": "C#",
-            "last_commit": "2026-08-23T08:09:46Z",
+            "last_commit": "2026-08-24T12:49:54Z",
             "owner": "openiddict",
             "repo": "openiddict-core",
-            "stars": 5235
+            "stars": 5236
           }
         },
         {
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 18187508,
                 "language": "C",
-                "last_commit": "2026-08-23T09:28:54Z",
+                "last_commit": "2026-08-23T14:50:40Z",
                 "owner": "OpenIDC",
                 "repo": "mod_auth_openidc",
                 "stars": 1092
@@ -215,6 +215,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "IdentityModel.OidcClient",
+              "description": "C# / .NET OpenID Connect relying party client certified library for native mobile/desktop applications.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 69324096,
+                "language": "C#",
+                "last_commit": "2025-09-08T10:25:54Z",
+                "owner": "DuendeArchive",
+                "repo": "IdentityModel.OidcClient",
+                "stars": 614
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C#"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "openid_client",
+              "description": "OpenID Connect Relying Party client library for Dart in Flutter, Web and Command Line.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80706184,
+                "language": "Dart",
+                "last_commit": "2026-04-28T09:32:53Z",
+                "owner": "appsup-dart",
+                "repo": "openid_client",
+                "stars": 96
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dart"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "oidcc",
+              "description": "Certified OpenID Connect Relying Party client library for Erlang and Elixir with FAPI support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50982997,
+                "language": "Erlang",
+                "last_commit": "2026-08-23T11:16:31Z",
+                "owner": "erlef",
+                "repo": "oidcc",
+                "stars": 239
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Erlang"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "coreos/go-oidc",
               "description": "Go OpenID Connect client developed by CoreOS.",
               "children": [],
@@ -237,16 +303,38 @@
                 "archived": false,
                 "id": 221917370,
                 "language": "Go",
-                "last_commit": "2026-08-21T04:05:11Z",
+                "last_commit": "2026-08-24T04:05:38Z",
                 "owner": "zitadel",
                 "repo": "oidc",
-                "stars": 1870
+                "stars": 1871
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Golang"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "com.google.oauth-client/google-oauth-client",
+              "description": "OAuth Relying Party Java library written by Google for OAuth 2.0 with Android support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25881471,
+                "language": "Java",
+                "last_commit": "2026-06-26T20:58:16Z",
+                "owner": "googleapis",
+                "repo": "google-oauth-java-client",
+                "stars": 660
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
         },
         {
           "children": [
@@ -304,10 +392,10 @@
                 "archived": false,
                 "id": 803014189,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T04:44:11Z",
+                "last_commit": "2026-08-24T14:21:09Z",
                 "owner": "better-auth",
                 "repo": "better-auth",
-                "stars": 29645
+                "stars": 29659
               }
             },
             {
@@ -364,16 +452,38 @@
                 "archived": false,
                 "id": 94194486,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T09:03:54Z",
+                "last_commit": "2026-08-23T16:15:30Z",
                 "owner": "damienbod",
                 "repo": "angular-auth-oidc-client",
-                "stars": 1238
+                "stars": 1239
               }
             }
           ],
           "description": "Libraries layer focused on specific framework integration",
           "node_type": "group",
           "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ocaml-oidc",
+              "description": "Certified OpenID Connect Relying Party implementation in OCaml.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262499873,
+                "language": "OCaml",
+                "last_commit": "2025-11-05T11:43:36Z",
+                "owner": "ulrikstrid",
+                "repo": "ocaml-oidc",
+                "stars": 51
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OCaml"
         },
         {
           "children": [
@@ -386,7 +496,7 @@
                 "archived": false,
                 "id": 23056580,
                 "language": "PHP",
-                "last_commit": "2026-08-18T13:44:35Z",
+                "last_commit": "2026-08-24T13:31:12Z",
                 "owner": "laravel",
                 "repo": "socialite",
                 "stars": 5747
@@ -411,6 +521,28 @@
           "description": null,
           "node_type": "group",
           "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mozilla-django-oidc",
+              "description": "A Django OpenID Connect relying party library maintained by Mozilla.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70578420,
+                "language": "Python",
+                "last_commit": "2026-01-07T11:25:39Z",
+                "owner": "mozilla",
+                "repo": "mozilla-django-oidc",
+                "stars": 553
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
         },
         {
           "children": [
@@ -448,6 +580,28 @@
           "description": null,
           "node_type": "group",
           "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "openidconnect",
+              "description": "OpenID Connect Relying party (RP) library for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127592417,
+                "language": "Rust",
+                "last_commit": "2025-11-08T04:46:18Z",
+                "owner": "ramosbugs",
+                "repo": "openidconnect-rs",
+                "stars": 637
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
         }
       ],
       "title": "Relying Parties (RP) Libraries"
@@ -464,10 +618,10 @@
             "archived": false,
             "id": 105262714,
             "language": "Go",
-            "last_commit": "2026-08-23T10:44:56Z",
+            "last_commit": "2026-08-24T09:39:12Z",
             "owner": "oauth2-proxy",
             "repo": "oauth2-proxy",
-            "stars": 14866
+            "stars": 14870
           }
         },
         {
@@ -527,15 +681,72 @@
             "last_commit": "2026-08-19T16:52:20Z",
             "owner": "lukaszraczylo",
             "repo": "traefikoidc",
-            "stars": 207
+            "stars": 208
           }
         }
       ],
       "title": "Relying Parties (RP) Software Plugins"
+    },
+    {
+      "description": "Where to discover learning resources about OpenID Connect.",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "OAuth 2.0 App2App Browserless Flow",
+                  "description": "Describing a protocol enabling native navigation across apps performing authentication using the App2App pattern, without requiring a web browser.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 978322420,
+                    "language": "Makefile",
+                    "last_commit": "2025-10-31T17:51:47Z",
+                    "owner": "yaron-zehavi",
+                    "repo": "oauth-app2app-browserless",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Draft"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Specifications"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SecureAuthCorp/oauth2c",
+              "description": "OAuth 2.0 and OpenID Connect command line client for testing and exploring different flows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507841912,
+                "language": "Go",
+                "last_commit": "2026-08-19T18:46:33Z",
+                "owner": "SecureAuthCorp",
+                "repo": "oauth2c",
+                "stars": 942
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Playgrounds"
+        }
+      ],
+      "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:53:59.163Z",
+    "last_updated": "2026-08-24T14:36:23.370Z",
     "original_repository": "cerberauth/awesome-openid-connect",
     "original_repository_id": 621026799,
     "original_repository_sha": "fee56dd9fc06448c0eb96e03d3523e12bdf580c1",
