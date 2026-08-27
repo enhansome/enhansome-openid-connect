@@ -12,10 +12,10 @@
             "archived": false,
             "id": 230885748,
             "language": "Python",
-            "last_commit": "2026-08-26T14:10:53Z",
+            "last_commit": "2026-08-27T11:09:55Z",
             "owner": "goauthentik",
             "repo": "authentik",
-            "stars": 25167
+            "stars": 25186
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17497
+            "stars": 17502
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 247714750,
             "language": "Go",
-            "last_commit": "2026-08-26T13:43:54Z",
+            "last_commit": "2026-08-27T11:52:35Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 14861
+            "stars": 14873
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 378310716,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T12:19:17Z",
+            "last_commit": "2026-08-27T10:46:29Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 14465
+            "stars": 14471
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-24T04:04:36Z",
             "owner": "dexidp",
             "repo": "dex",
-            "stars": 11059
+            "stars": 11067
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 841141075,
             "language": "Go",
-            "last_commit": "2026-08-26T07:11:27Z",
+            "last_commit": "2026-08-27T10:14:35Z",
             "owner": "pocket-id",
             "repo": "pocket-id",
-            "stars": 9026
+            "stars": 9032
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 41173335,
             "language": "C#",
-            "last_commit": "2026-08-25T07:33:01Z",
+            "last_commit": "2026-08-27T08:18:03Z",
             "owner": "openiddict",
             "repo": "openiddict-core",
             "stars": 5236
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 18187508,
                 "language": "C",
-                "last_commit": "2026-08-24T19:53:54Z",
+                "last_commit": "2026-08-27T08:07:34Z",
                 "owner": "OpenIDC",
                 "repo": "mod_auth_openidc",
                 "stars": 1093
@@ -291,7 +291,7 @@
                 "last_commit": "2026-07-08T18:25:54Z",
                 "owner": "coreos",
                 "repo": "go-oidc",
-                "stars": 2472
+                "stars": 2473
               }
             },
             {
@@ -303,10 +303,10 @@
                 "archived": false,
                 "id": 221917370,
                 "language": "Go",
-                "last_commit": "2026-08-25T15:06:20Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "zitadel",
                 "repo": "oidc",
-                "stars": 1872
+                "stars": 1873
               }
             }
           ],
@@ -350,7 +350,7 @@
                 "last_commit": "2026-08-24T20:22:07Z",
                 "owner": "panva",
                 "repo": "openid-client",
-                "stars": 2397
+                "stars": 2398
               }
             },
             {
@@ -380,7 +380,7 @@
                 "last_commit": "2026-08-24T20:22:03Z",
                 "owner": "panva",
                 "repo": "oauth4webapi",
-                "stars": 774
+                "stars": 775
               }
             },
             {
@@ -392,10 +392,10 @@
                 "archived": false,
                 "id": 803014189,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T14:06:19Z",
+                "last_commit": "2026-08-27T11:42:54Z",
                 "owner": "better-auth",
                 "repo": "better-auth",
-                "stars": 29699
+                "stars": 29713
               }
             },
             {
@@ -440,7 +440,7 @@
                 "last_commit": "2026-08-19T15:51:10Z",
                 "owner": "sidebase",
                 "repo": "nuxt-auth",
-                "stars": 1548
+                "stars": 1549
               }
             },
             {
@@ -499,7 +499,7 @@
                 "last_commit": "2026-08-25T14:41:48Z",
                 "owner": "laravel",
                 "repo": "socialite",
-                "stars": 5745
+                "stars": 5746
               }
             },
             {
@@ -618,10 +618,10 @@
             "archived": false,
             "id": 105262714,
             "language": "Go",
-            "last_commit": "2026-08-25T14:15:05Z",
+            "last_commit": "2026-08-27T00:37:55Z",
             "owner": "oauth2-proxy",
             "repo": "oauth2-proxy",
-            "stars": 14876
+            "stars": 14878
           }
         },
         {
@@ -746,9 +746,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:11:25.175Z",
-    "original_repository": "cerberauth/awesome-openid-connect",
-    "original_repository_id": 621026799,
+    "last_updated": "2026-08-27T11:54:56.437Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 621026799,
+      "language": "HTML",
+      "last_commit": "2026-08-20T20:43:07Z",
+      "owner": "cerberauth",
+      "repo": "awesome-openid-connect",
+      "stars": 122
+    },
     "original_repository_sha": "fee56dd9fc06448c0eb96e03d3523e12bdf580c1",
     "enhanced_repository": "enhansome/enhansome-openid-connect",
     "enhanced_repository_description": null,
