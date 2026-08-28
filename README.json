@@ -12,11 +12,12 @@
             "archived": false,
             "id": 230885748,
             "language": "Python",
-            "last_commit": "2026-08-27T20:46:32Z",
+            "last_commit": "2026-08-28T21:32:32Z",
             "owner": "goauthentik",
             "repo": "authentik",
-            "stars": 25196
-          }
+            "stars": 25220
+          },
+          "first_seen": "2026-08-28T23:08:54.596Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-07-29T09:30:11Z",
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17503
-          }
+            "stars": 17509
+          },
+          "first_seen": "2026-08-28T23:08:54.596Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 247714750,
             "language": "Go",
-            "last_commit": "2026-08-27T20:13:07Z",
+            "last_commit": "2026-08-28T18:20:30Z",
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 14878
-          }
+            "stars": 14888
+          },
+          "first_seen": "2026-08-28T23:08:54.596Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 378310716,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:27:46Z",
+            "last_commit": "2026-08-28T10:43:46Z",
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 14474
-          }
+            "stars": 14475
+          },
+          "first_seen": "2026-08-28T23:08:54.596Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-08-24T04:04:36Z",
             "owner": "dexidp",
             "repo": "dex",
-            "stars": 11067
-          }
+            "stars": 11069
+          },
+          "first_seen": "2026-08-28T23:08:54.596Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 841141075,
             "language": "Go",
-            "last_commit": "2026-08-27T10:14:35Z",
+            "last_commit": "2026-08-28T22:03:11Z",
             "owner": "pocket-id",
             "repo": "pocket-id",
-            "stars": 9035
-          }
+            "stars": 9044
+          },
+          "first_seen": "2026-08-28T23:08:54.596Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "openiddict",
             "repo": "openiddict-core",
             "stars": 5237
-          }
+          },
+          "first_seen": "2026-08-28T23:08:54.596Z"
         },
         {
           "node_type": "item",
@@ -117,11 +124,12 @@
             "archived": false,
             "id": 47250070,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T20:35:37Z",
+            "last_commit": "2026-08-28T22:22:39Z",
             "owner": "panva",
             "repo": "node-oidc-provider",
             "stars": 3802
-          }
+          },
+          "first_seen": "2026-08-28T23:08:54.596Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "ory",
             "repo": "polis",
             "stars": 2261
-          }
+          },
+          "first_seen": "2026-08-28T23:08:54.596Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "mitreid-connect",
             "repo": "OpenID-Connect-Java-Spring-Server",
             "stars": 1508
-          }
+          },
+          "first_seen": "2026-08-28T23:08:54.596Z"
         }
       ],
       "title": "OpenID Providers (OP)"
@@ -170,11 +180,12 @@
                 "archived": false,
                 "id": 18187508,
                 "language": "C",
-                "last_commit": "2026-08-27T08:07:34Z",
+                "last_commit": "2026-08-28T08:21:15Z",
                 "owner": "OpenIDC",
                 "repo": "mod_auth_openidc",
                 "stars": 1093
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "OpenIDC",
                 "repo": "liboauth2",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "OpenIDC",
                 "repo": "ngx_oauth2_module",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             }
           ],
           "description": null,
@@ -226,7 +239,8 @@
                 "owner": "DuendeArchive",
                 "repo": "IdentityModel.OidcClient",
                 "stars": 614
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             }
           ],
           "description": null,
@@ -248,7 +262,8 @@
                 "owner": "appsup-dart",
                 "repo": "openid_client",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             }
           ],
           "description": null,
@@ -270,7 +285,8 @@
                 "owner": "erlef",
                 "repo": "oidcc",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             }
           ],
           "description": null,
@@ -291,8 +307,9 @@
                 "last_commit": "2026-07-08T18:25:54Z",
                 "owner": "coreos",
                 "repo": "go-oidc",
-                "stars": 2473
-              }
+                "stars": 2474
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             },
             {
               "node_type": "item",
@@ -303,11 +320,12 @@
                 "archived": false,
                 "id": 221917370,
                 "language": "Go",
-                "last_commit": "2026-08-27T09:11:14Z",
+                "last_commit": "2026-08-28T06:45:28Z",
                 "owner": "zitadel",
                 "repo": "oidc",
-                "stars": 1873
-              }
+                "stars": 1878
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             }
           ],
           "description": null,
@@ -329,7 +347,8 @@
                 "owner": "googleapis",
                 "repo": "google-oauth-java-client",
                 "stars": 660
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             }
           ],
           "description": null,
@@ -351,7 +370,8 @@
                 "owner": "panva",
                 "repo": "openid-client",
                 "stars": 2399
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             },
             {
               "node_type": "item",
@@ -366,7 +386,8 @@
                 "owner": "authts",
                 "repo": "oidc-client-ts",
                 "stars": 1945
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             },
             {
               "node_type": "item",
@@ -381,7 +402,8 @@
                 "owner": "panva",
                 "repo": "oauth4webapi",
                 "stars": 775
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             },
             {
               "node_type": "item",
@@ -392,11 +414,12 @@
                 "archived": false,
                 "id": 803014189,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T22:57:09Z",
+                "last_commit": "2026-08-28T22:47:45Z",
                 "owner": "better-auth",
                 "repo": "better-auth",
-                "stars": 29725
-              }
+                "stars": 29742
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             },
             {
               "node_type": "item",
@@ -411,7 +434,8 @@
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
                 "stars": 1979
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             },
             {
               "node_type": "item",
@@ -422,11 +446,12 @@
                 "archived": false,
                 "id": 102371998,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T10:50:52Z",
+                "last_commit": "2026-08-28T09:37:53Z",
                 "owner": "nuxt-community",
                 "repo": "auth-module",
                 "stars": 1924
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             },
             {
               "node_type": "item",
@@ -441,7 +466,8 @@
                 "owner": "sidebase",
                 "repo": "nuxt-auth",
                 "stars": 1549
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             },
             {
               "node_type": "item",
@@ -456,7 +482,8 @@
                 "owner": "damienbod",
                 "repo": "angular-auth-oidc-client",
                 "stars": 1239
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             }
           ],
           "description": "Libraries layer focused on specific framework integration",
@@ -478,7 +505,8 @@
                 "owner": "ulrikstrid",
                 "repo": "ocaml-oidc",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             }
           ],
           "description": null,
@@ -499,8 +527,9 @@
                 "last_commit": "2026-08-25T14:41:48Z",
                 "owner": "laravel",
                 "repo": "socialite",
-                "stars": 5746
-              }
+                "stars": 5747
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             },
             {
               "node_type": "item",
@@ -515,7 +544,8 @@
                 "owner": "thephpleague",
                 "repo": "oauth2-client",
                 "stars": 3817
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             }
           ],
           "description": null,
@@ -537,7 +567,8 @@
                 "owner": "mozilla",
                 "repo": "mozilla-django-oidc",
                 "stars": 554
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             }
           ],
           "description": null,
@@ -559,7 +590,8 @@
                 "owner": "nov",
                 "repo": "openid_connect",
                 "stars": 429
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             },
             {
               "node_type": "item",
@@ -574,7 +606,8 @@
                 "owner": "omniauth",
                 "repo": "omniauth_openid_connect",
                 "stars": 199
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             }
           ],
           "description": null,
@@ -596,7 +629,8 @@
                 "owner": "ramosbugs",
                 "repo": "openidconnect-rs",
                 "stars": 637
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             }
           ],
           "description": null,
@@ -618,11 +652,12 @@
             "archived": false,
             "id": 105262714,
             "language": "Go",
-            "last_commit": "2026-08-27T16:43:13Z",
+            "last_commit": "2026-08-28T22:46:26Z",
             "owner": "oauth2-proxy",
             "repo": "oauth2-proxy",
-            "stars": 14883
-          }
+            "stars": 14888
+          },
+          "first_seen": "2026-08-28T23:08:54.596Z"
         },
         {
           "node_type": "item",
@@ -637,7 +672,8 @@
             "owner": "vouch",
             "repo": "vouch-proxy",
             "stars": 3280
-          }
+          },
+          "first_seen": "2026-08-28T23:08:54.596Z"
         },
         {
           "node_type": "item",
@@ -651,8 +687,9 @@
             "last_commit": "2026-06-29T19:40:15Z",
             "owner": "greenpau",
             "repo": "caddy-security",
-            "stars": 2224
-          }
+            "stars": 2225
+          },
+          "first_seen": "2026-08-28T23:08:54.596Z"
         },
         {
           "node_type": "item",
@@ -666,8 +703,9 @@
             "last_commit": "2026-07-01T14:56:19Z",
             "owner": "zmartzone",
             "repo": "lua-resty-openidc",
-            "stars": 1073
-          }
+            "stars": 1074
+          },
+          "first_seen": "2026-08-28T23:08:54.596Z"
         },
         {
           "node_type": "item",
@@ -678,11 +716,12 @@
             "archived": false,
             "id": 783097797,
             "language": "Go",
-            "last_commit": "2026-08-19T16:52:20Z",
+            "last_commit": "2026-08-27T23:50:14Z",
             "owner": "lukaszraczylo",
             "repo": "traefikoidc",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T23:08:54.596Z"
         }
       ],
       "title": "Relying Parties (RP) Software Plugins"
@@ -707,7 +746,8 @@
                     "owner": "yaron-zehavi",
                     "repo": "oauth-app2app-browserless",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:08:54.596Z"
                 }
               ],
               "description": null,
@@ -734,7 +774,8 @@
                 "owner": "SecureAuthCorp",
                 "repo": "oauth2c",
                 "stars": 942
-              }
+              },
+              "first_seen": "2026-08-28T23:08:54.596Z"
             }
           ],
           "description": null,
@@ -746,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:01:11.927Z",
+    "last_updated": "2026-08-28T23:08:54.596Z",
     "original_repository_info": {
       "archived": false,
       "id": 621026799,
