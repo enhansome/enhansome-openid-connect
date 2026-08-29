@@ -15,11 +15,11 @@
             "id": 230885748,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T00:15:43Z",
-            "open_issues": 1072,
+            "last_commit": "2026-08-29T12:10:07Z",
+            "open_issues": 1073,
             "owner": "goauthentik",
             "repo": "authentik",
-            "stars": 25222,
+            "stars": 25231,
             "topics": [
               "authentication",
               "authentik",
@@ -58,7 +58,7 @@
             "open_issues": 94,
             "owner": "ory",
             "repo": "hydra",
-            "stars": 17510,
+            "stars": 17511,
             "topics": [
               "authorization",
               "cloud",
@@ -100,7 +100,7 @@
             "open_issues": 1140,
             "owner": "zitadel",
             "repo": "zitadel",
-            "stars": 14888,
+            "stars": 14893,
             "topics": [
               "2fa",
               "authentication",
@@ -139,7 +139,7 @@
             "open_issues": 177,
             "owner": "logto-io",
             "repo": "logto",
-            "stars": 14475,
+            "stars": 14478,
             "topics": [
               "authentication",
               "authorization",
@@ -181,7 +181,7 @@
             "open_issues": 535,
             "owner": "dexidp",
             "repo": "dex",
-            "stars": 11069,
+            "stars": 11070,
             "topics": [
               "hacktoberfest",
               "identity-provider",
@@ -208,7 +208,7 @@
             "open_issues": 91,
             "owner": "pocket-id",
             "repo": "pocket-id",
-            "stars": 9045,
+            "stars": 9049,
             "topics": [
               "idp",
               "oidc",
@@ -260,7 +260,7 @@
             "open_issues": 0,
             "owner": "panva",
             "repo": "node-oidc-provider",
-            "stars": 3802,
+            "stars": 3801,
             "topics": [
               "authorization",
               "authorization-server",
@@ -394,7 +394,7 @@
                 "open_issues": 2,
                 "owner": "OpenIDC",
                 "repo": "liboauth2",
-                "stars": 137,
+                "stars": 138,
                 "topics": [
                   "c",
                   "oauth",
@@ -554,7 +554,7 @@
                 "open_issues": 21,
                 "owner": "coreos",
                 "repo": "go-oidc",
-                "stars": 2474,
+                "stars": 2475,
                 "topics": [
                   "golang"
                 ]
@@ -625,7 +625,7 @@
                 "open_issues": 34,
                 "owner": "googleapis",
                 "repo": "google-oauth-java-client",
-                "stars": 660,
+                "stars": 661,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:08:54.596Z"
@@ -742,10 +742,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T22:47:45Z",
-                "open_issues": 689,
+                "open_issues": 692,
                 "owner": "better-auth",
                 "repo": "better-auth",
-                "stars": 29744,
+                "stars": 29749,
                 "topics": [
                   "authentication",
                   "iam",
@@ -953,7 +953,7 @@
                 "open_issues": 63,
                 "owner": "thephpleague",
                 "repo": "oauth2-client",
-                "stars": 3817,
+                "stars": 3818,
                 "topics": [
                   "authentication",
                   "authorization",
@@ -1109,11 +1109,11 @@
             "id": 105262714,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:39:43Z",
+            "last_commit": "2026-08-29T14:38:44Z",
             "open_issues": 254,
             "owner": "oauth2-proxy",
             "repo": "oauth2-proxy",
-            "stars": 14888,
+            "stars": 14889,
             "topics": [
               "cloud-infrastructure",
               "hacktoberfest",
@@ -1172,7 +1172,7 @@
             "open_issues": 22,
             "owner": "greenpau",
             "repo": "caddy-security",
-            "stars": 2226,
+            "stars": 2227,
             "topics": [
               "access-control",
               "acl",
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:55:31.499Z",
+    "last_updated": "2026-08-29T17:18:23.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "OpenID Connect, the authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins (Apple, Facebook, Google, ...etc). Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing specs.",
