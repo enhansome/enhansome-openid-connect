@@ -36,19 +36,19 @@
 
 *OpenID Connect Providers as SaaS and Open Source solutions.*
 
-* [Authentik](https://github.com/goauthentik/authentik) ⭐ 25,748 | 🐛 1,120 | 🌐 Python | 📅 2026-09-27 - Open Source Identity Provider focused on flexibility and versatility.
+* [Authentik](https://github.com/goauthentik/authentik) ⭐ 25,767 | 🐛 1,103 | 🌐 Python | 📅 2026-09-28 - Open Source Identity Provider focused on flexibility and versatility.
 
-* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,571 | 🐛 95 | 🌐 Go | 📅 2026-07-29 - Open Source OpenID Certified™ OpenID Connect and OAuth Provider.
+* [Ory Hydra](https://github.com/ory/hydra) ⭐ 17,575 | 🐛 95 | 🌐 Go | 📅 2026-07-29 - Open Source OpenID Certified™ OpenID Connect and OAuth Provider.
 
-* [Zitadel](https://github.com/zitadel/zitadel) ⭐ 15,115 | 🐛 1,223 | 🌐 Go | 📅 2026-09-25 - Open Source Identity solution with OpenID Connect provider (OP) and SAMLv2 ready to use.
+* [Zitadel](https://github.com/zitadel/zitadel) ⭐ 15,121 | 🐛 1,224 | 🌐 Go | 📅 2026-09-28 - Open Source Identity solution with OpenID Connect provider (OP) and SAMLv2 ready to use.
 
-* [Logto](https://github.com/logto-io/logto) ⭐ 14,637 | 🐛 175 | 🌐 TypeScript | 📅 2026-09-27 - An Open-source solution designed for Customer Identity and Access Management (CIAM) and Workforce Identity Management with OpenID Connect based authentication.
+* [Logto](https://github.com/logto-io/logto) ⭐ 14,643 | 🐛 172 | 🌐 TypeScript | 📅 2026-09-28 - An Open-source solution designed for Customer Identity and Access Management (CIAM) and Workforce Identity Management with OpenID Connect based authentication.
 
-* [Dex](https://github.com/dexidp/dex) ⭐ 11,129 | 🐛 530 | 🌐 Go | 📅 2026-09-25 - Provider that acts as a portal to other identity providers through "connectors." like LDAP, SAML, OIDC or established identity providers like GitHub, Google, and Active Directory.
+* [Dex](https://github.com/dexidp/dex) ⭐ 11,134 | 🐛 532 | 🌐 Go | 📅 2026-09-28 - Provider that acts as a portal to other identity providers through "connectors." like LDAP, SAML, OIDC or established identity providers like GitHub, Google, and Active Directory.
 
-* [Pocket ID](https://github.com/pocket-id/pocket-id) ⭐ 9,302 | 🐛 101 | 🌐 Go | 📅 2026-09-27 - A simple OpenID Connect Provider that allows users to authenticate with their passkeys.
+* [Pocket ID](https://github.com/pocket-id/pocket-id) ⭐ 9,310 | 🐛 102 | 🌐 Go | 📅 2026-09-28 - A simple OpenID Connect Provider that allows users to authenticate with their passkeys.
 
-* [OpenIddict](https://github.com/openiddict/openiddict-core) ⭐ 5,260 | 🐛 9 | 🌐 C# | 📅 2026-09-18 - .NET Open Source OpenID Connect Provider implementation with ASP.NET Core 2.1 (and higher) applications support.
+* [OpenIddict](https://github.com/openiddict/openiddict-core) ⭐ 5,261 | 🐛 9 | 🌐 C# | 📅 2026-09-18 - .NET Open Source OpenID Connect Provider implementation with ASP.NET Core 2.1 (and higher) applications support.
 
 * [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) ⭐ 3,818 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-14 - Open Source and certified OpenID Connect provider implementation in Node.js with FAPI 1.0 and FAPI 2.0 support.
 
@@ -152,8 +152,8 @@
 
 ### Golang
 
-* [coreos/go-oidc](https://github.com/coreos/go-oidc) ⭐ 2,480 | 🐛 23 | 🌐 Go | 📅 2026-09-09 - Go OpenID Connect client developed by CoreOS.
-* [zitadel/oidc](https://github.com/zitadel/oidc) ⭐ 1,894 | 🐛 40 | 🌐 Go | 📅 2026-09-25 - OpenID Connect client and server library certified by the OpenID Foundation.
+* [coreos/go-oidc](https://github.com/coreos/go-oidc) ⭐ 2,481 | 🐛 23 | 🌐 Go | 📅 2026-09-09 - Go OpenID Connect client developed by CoreOS.
+* [zitadel/oidc](https://github.com/zitadel/oidc) ⭐ 1,895 | 🐛 36 | 🌐 Go | 📅 2026-09-28 - OpenID Connect client and server library certified by the OpenID Foundation.
 * [golang.org/x/oauth2](https://pkg.go.dev/golang.org/x/oauth2) - Official Golang client implementation for OAuth 2.0 spec with OpenID Connect support.
 
 ### Java
@@ -164,16 +164,16 @@
 
 ### JavaScript
 
-* [openid-client](https://github.com/panva/node-openid-client) ⭐ 2,420 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-14 - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
+* [openid-client](https://github.com/panva/node-openid-client) ⭐ 2,423 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-14 - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
 * [oidc-client-ts](https://github.com/authts/oidc-client-ts) ⭐ 1,955 | 🐛 157 | 🌐 TypeScript | 📅 2026-09-01 - TypeScript OpenID Client and OAuth 2.0 client for browser-based applications.
 * [oauth4webapi](https://github.com/panva/oauth4webapi) ⭐ 786 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-14 - OAuth 2/OpenID Connect library for JavaScript Runtimes.
 
 *Libraries layer focused on specific framework integration*
 
-* [Better Auth](https://github.com/better-auth/better-auth) ⭐ 30,098 | 🐛 764 | 🌐 TypeScript | 📅 2026-09-27 - TypeScript Framework agnostic authentication library for SPAs and server-side applications.
-* [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,984 | 🐛 309 | 🌐 TypeScript | 📅 2026-07-05 - Library which bring support for OAuth 2.0 and OpenID Connect (OIDC) in Angular.
+* [Better Auth](https://github.com/better-auth/better-auth) ⭐ 30,113 | 🐛 772 | 🌐 TypeScript | 📅 2026-09-28 - TypeScript Framework agnostic authentication library for SPAs and server-side applications.
+* [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,983 | 🐛 309 | 🌐 TypeScript | 📅 2026-07-05 - Library which bring support for OAuth 2.0 and OpenID Connect (OIDC) in Angular.
 * [nuxt-auth for Nuxt 2](https://github.com/nuxt-community/auth-module) ⭐ 1,924 | 🐛 205 | 🌐 TypeScript | 📅 2026-09-25 - Zero-boilerplate authentication support for Nuxt.js 2.
-* [nuxt-auth for Nuxt3](https://github.com/sidebase/nuxt-auth) ⭐ 1,555 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-25 - Nuxt 3 user authentication and sessions library. nuxt-auth wraps NextAuth.js.
+* [nuxt-auth for Nuxt3](https://github.com/sidebase/nuxt-auth) ⭐ 1,555 | 🐛 79 | 🌐 TypeScript | 📅 2026-09-25 - Nuxt 3 user authentication and sessions library. nuxt-auth wraps NextAuth.js.
 * [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) ⭐ 1,236 | 🐛 266 | 🌐 TypeScript | 📅 2026-09-24 - Angular certified library with OAuth 2.0 and OpenID Connect flows, and Angular schematics.
 
 ### OCaml
@@ -182,8 +182,8 @@
 
 ### PHP
 
-* [Laravel Socialite](https://github.com/laravel/socialite) ⭐ 5,748 | 🐛 3 | 🌐 PHP | 📅 2026-09-04 - Laravel wrapper around OAuth 1 & OAuth 2 libraries with OpenID Connect support.
-* [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client) ⭐ 3,818 | 🐛 63 | 🌐 PHP | 📅 2026-09-16 - Integration with OAuth 2.0 service providers for PHP.
+* [Laravel Socialite](https://github.com/laravel/socialite) ⭐ 5,747 | 🐛 3 | 🌐 PHP | 📅 2026-09-04 - Laravel wrapper around OAuth 1 & OAuth 2 libraries with OpenID Connect support.
+* [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client) ⭐ 3,819 | 🐛 63 | 🌐 PHP | 📅 2026-09-16 - Integration with OAuth 2.0 service providers for PHP.
 * [Symfony Security](https://symfony.com/doc/current/security/access_token.html#using-openid-connect-oidc) - PHP Security component with OpenID Connect support.
 
 ### Python
@@ -202,11 +202,11 @@
 
 ## Relying Parties (RP) Software Plugins
 
-* [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) ⭐ 15,016 | 🐛 292 | 🌐 Go | 📅 2026-09-27 - Reverse proxy adding OpenID Connect and OAuth 2.0 based authentication in front of any application.
-* [Vouch Proxy](https://github.com/vouch/vouch-proxy) ⭐ 3,281 | 🐛 65 | 🌐 Go | 📅 2026-07-03 - SSO solution using OpenID Connect for Nginx and Traefik reverse proxies.
-* [caddy-security](https://github.com/greenpau/caddy-security) ⭐ 2,239 | 🐛 6 | 🌐 Go | 📅 2026-09-27 - OpenID Connect Relying Party authentication plugin for the Caddy web server.
+* [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) ⭐ 15,025 | 🐛 292 | 🌐 Go | 📅 2026-09-28 - Reverse proxy adding OpenID Connect and OAuth 2.0 based authentication in front of any application.
+* [Vouch Proxy](https://github.com/vouch/vouch-proxy) ⭐ 3,281 | 🐛 60 | 🌐 Go | 📅 2026-09-27 - SSO solution using OpenID Connect for Nginx and Traefik reverse proxies.
+* [caddy-security](https://github.com/greenpau/caddy-security) ⭐ 2,240 | 🐛 3 | 🌐 Go | 📅 2026-09-28 - OpenID Connect Relying Party authentication plugin for the Caddy web server.
 * [lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc) ⭐ 1,072 | 🐛 74 | 🌐 Lua | 📅 2026-09-05 - OpenID Connect Relying Party and OAuth 2.0 client Lua library for NGINX/OpenResty.
-* [traefikoidc](https://github.com/lukaszraczylo/traefikoidc) ⭐ 212 | 🐛 4 | 🌐 Go | 📅 2026-09-16 - OpenID Connect Relying Party middleware plugin for Traefik.
+* [traefikoidc](https://github.com/lukaszraczylo/traefikoidc) ⭐ 212 | 🐛 4 | 🌐 Go | 📅 2026-09-28 - OpenID Connect Relying Party middleware plugin for Traefik.
 * [MiniOrange OAuth SSO](https://wordpress.org/plugins/miniorange-login-with-eve-online-google-facebook/) - Wordpress OAuth and OpenID Connect plugin developed and actively maintained by MiniOrange.
 * [Kong OpenID Connect](https://docs.konghq.com/hub/kong-inc/openid-connect/) - OpenID Connect Relying Party plugin for the Kong API Gateway.
 * [Apache APISIX openid-connect](https://apisix.apache.org/docs/apisix/plugins/openid-connect/) - OpenID Connect Relying Party plugin for the Apache APISIX API Gateway.
@@ -318,7 +318,7 @@ Where to discover learning resources about OpenID Connect.
 
 ### Playgrounds
 
-* [SecureAuthCorp/oauth2c](https://github.com/SecureAuthCorp/oauth2c) ⭐ 949 | 🐛 3 | 🌐 Go | 📅 2026-09-23 - OAuth 2.0 and OpenID Connect command line client for testing and exploring different flows.
+* [SecureAuthCorp/oauth2c](https://github.com/SecureAuthCorp/oauth2c) ⭐ 950 | 🐛 3 | 🌐 Go | 📅 2026-09-23 - OAuth 2.0 and OpenID Connect command line client for testing and exploring different flows.
 * [OAuth.com Playground](https://www.oauth.com/playground/) - OAuth 2.0 / OpenID Connect Playground with authorization flows and step by step of the process of obtaining an access token.
 * [Curity Playground](https://oauth.tools/) - Tools for exploring and testing OAuth and OpenID Connect flows.
 * [MojoAuth: Passkey Playground](https://mojoauth.com/oidc-playground/) - Build and visualize OpenID Connect requests with this interactive tool. Configure parameters, generate request URLs, and decode JWT tokens.
@@ -341,4 +341,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
